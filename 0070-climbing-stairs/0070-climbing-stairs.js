@@ -9,4 +9,4 @@ function climbStairs(n) {
         steps[i] = steps[i - 1] + steps[i - 2];
     }
     return steps[n];
-}
+};
