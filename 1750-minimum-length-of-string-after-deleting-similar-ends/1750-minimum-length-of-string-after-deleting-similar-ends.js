@@ -9,10 +9,10 @@ function minimumLength(s) {
      while(prefix < suffix && s[prefix] === s[suffix]){
          let elet = s[prefix];
          while(prefix <= suffix && s[prefix] === elet){
-             prefix++
+             prefix++;
          }
          while(suffix >= prefix && s[suffix] === elet){
-             suffix--
+             suffix--;
          }
      }
      return suffix - prefix + 1;
