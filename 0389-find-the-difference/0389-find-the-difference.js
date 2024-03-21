@@ -3,13 +3,14 @@
  * @param {string} t
  * @return {character}
  */
-var findTheDifference = function(s, t) {
-    let r = 0;
-    for (let i = 0; i < s.length; i++) {
-        r ^= s.charCodeAt(i);
-    }
-    for (let i = 0; i < t.length; i++) {
-        r ^= t.charCodeAt(i);
-    }
-    return String.fromCharCode(r);
+function findTheDifference(s, t) {
+     let sorted1 = s.split("").sort();
+     let sorted2 = t.split("").sort();
+
+     for(let i = 0; i < sorted2.length; i++){
+        if(i > s.length - 1) return sorted2[i];
+        else if(sorted2[i] !== sorted1[i]) return sorted2[i];
+     }
 };
+
+ 
