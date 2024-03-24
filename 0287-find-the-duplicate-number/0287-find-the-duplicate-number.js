@@ -2,20 +2,31 @@
  * @param {number[]} nums
  * @return {number}
  */
+    // const hashMap = new Map();
+    // let result = 0;
+    // for(let i = 0; i < nums.length; i++){
+    //     if(hashMap.has(nums[i])){
+    //         hashMap.set(nums[i],hashMap.get(nums[i]) + 1)
+    //     }else{
+    //          hashMap.set(nums[i],1);
+    //     }
+    // }
+    //  for(let i = 0; i < nums.length; i++){
+    //     if(hashMap.get(nums[i]) !== 1){
+    //         result = nums[i]
+    //     }
+    //  }
+    //  return result;
+
 function findDuplicate(nums) {
-    const hashMap = new Map();
-    let result = 0;
+    let numSet = new Set()
+
     for(let i = 0; i < nums.length; i++){
-        if(hashMap.has(nums[i])){
-            hashMap.set(nums[i],hashMap.get(nums[i]) + 1)
+        if(numSet.has(nums[i])){
+            return nums[i]
         }else{
-             hashMap.set(nums[i],1);
+            numSet.add(nums[i]);
         }
     }
-     for(let i = 0; i < nums.length; i++){
-        if(hashMap.get(nums[i]) !== 1){
-            result = nums[i]
-        }
-     }
-     return result;
+    return -1;
 };
