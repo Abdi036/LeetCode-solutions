@@ -41,15 +41,20 @@ function subGroupArray(arr,k){
         return container;       
     }
 
+function reverseArray(arr,k){
+     for(let i = 0; i < arr.length; i++){
+    if(arr[i].length === k){
+        arr[i].reverse();
+      }
+   }
+return arr;
+}
+
 // main function
 function reverseKGroup(head, k) {
    const array = toArray(head);
    const subgroup = subGroupArray(array,k);
-   
-   for(let i = 0; i < subgroup.length; i++){
-    if(subgroup[i].length === k){
-        subgroup[i].reverse();
-      }
-   }
+   reverseArray(subgroup,k);
+  
 return toList(subgroup.flat());
 };
