@@ -4,8 +4,5 @@
  * @return {string}
  */
 function addStrings(num1, num2) {
-    const number1 = BigInt(num1)
-    const number2 = BigInt(num2)
-
-    return number1 + number2 + ""
+     return BigInt(num1) + BigInt(num2) + ""
 };
