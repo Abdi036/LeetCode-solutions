@@ -43,6 +43,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,12 @@ leetcode problems solved
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
