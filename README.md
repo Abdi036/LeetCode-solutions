@@ -44,6 +44,7 @@ leetcode problems solved
 | ------- |
 | [0001-two-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0162-find-peak-element) |
 ## Matrix
 |  |
 | ------- |
