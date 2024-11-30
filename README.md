@@ -47,6 +47,7 @@ leetcode problems solved
 | [0001-two-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Abdi036/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Abdi036/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Abdi036/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdi036/LeetCode-solutions/tree/master/0217-contains-duplicate) |
