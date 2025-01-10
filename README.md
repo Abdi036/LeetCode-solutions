@@ -117,6 +117,7 @@ leetcode problems solved
 | [0162-find-peak-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Abdi036/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abdi036/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -153,6 +154,7 @@ leetcode problems solved
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Abdi036/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abdi036/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
