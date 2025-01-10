@@ -56,6 +56,7 @@ leetcode problems solved
 | [0217-contains-duplicate](https://github.com/Abdi036/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -119,6 +120,7 @@ leetcode problems solved
 | [0349-intersection-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abdi036/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
