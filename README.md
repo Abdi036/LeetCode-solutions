@@ -72,6 +72,7 @@ leetcode problems solved
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2698-find-the-array-concatenation-value](https://github.com/Abdi036/LeetCode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -165,6 +166,7 @@ leetcode problems solved
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [2698-find-the-array-concatenation-value](https://github.com/Abdi036/LeetCode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Math
 |  |
@@ -213,6 +215,7 @@ leetcode problems solved
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2551-apply-operations-to-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2698-find-the-array-concatenation-value](https://github.com/Abdi036/LeetCode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Recursion
 |  |
 | ------- |
