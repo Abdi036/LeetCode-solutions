@@ -70,6 +70,7 @@ leetcode problems solved
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abdi036/LeetCode-solutions/tree/master/2698-find-the-array-concatenation-value) |
@@ -91,6 +92,7 @@ leetcode problems solved
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -123,6 +125,7 @@ leetcode problems solved
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Binary Search
 |  |
@@ -168,6 +171,7 @@ leetcode problems solved
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abdi036/LeetCode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
