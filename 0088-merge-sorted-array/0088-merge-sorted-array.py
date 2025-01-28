@@ -3,12 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        res = []
+        p1, p2, p = m - 1, n - 1, m + n - 1
 
-        for i in range(m):
-            res.append(nums1[i])
-        for j in range(n):
-            res.append(nums2[j])
-        res.sort()
-        for k in range(len(res)):
-            nums1[k] = res[k]
+        while p1 >= 0 and p2 >= 0:
+            if nums1[p1] > nums2[p2]:
+                nums1[p] = nums1[p1]
+                p1 -= 1
+            else:
+                nums1[p] = nums2[p2]
+                p2 -= 1
+            p -= 1
+
+        while p2 >= 0:
+            nums1[p] = nums2[p2]
+            p2 -= 1
+            p -= 1
