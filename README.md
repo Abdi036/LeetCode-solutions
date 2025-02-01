@@ -83,6 +83,7 @@ leetcode problems solved
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3429-special-array-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
