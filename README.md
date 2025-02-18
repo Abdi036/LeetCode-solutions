@@ -92,6 +92,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abdi036/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdi036/LeetCode-solutions/tree/master/0217-contains-duplicate) |
@@ -113,6 +114,7 @@ leetcode problems solved
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abdi036/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0344-reverse-string) |
@@ -278,6 +280,7 @@ leetcode problems solved
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abdi036/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
