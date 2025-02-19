@@ -3,18 +3,19 @@
  * @param {number[]} nums
  * @return {number}
  */
-function minSubArrayLen(target, nums) {
-    let left = 0;
-    let total = 0;
-    let result = Infinity;
+var minSubArrayLen = function(target, nums) {
+    let left = 0
+    let minLength = Infinity
+    let curSum =  0
 
-    for(let r = 0; r < nums.length; r++){
-         total += nums[r]
-        while(total >= target){
-             result = Math.min(r - left + 1, result)
-             total -= nums[left]
-             left++
-            }      
+    for(let i = 0; i < nums.length; i++){
+        curSum += nums[i]
+        while(curSum >= target){
+            curSum -= nums[left]
+            let len = (i - left) + 1
+            minLength = Math.min(minLength,len)
+            left++
         }
-    return result === Infinity ? 0 : result
+    }
+    return minLength < Infinity ? minLength : 0
 };
