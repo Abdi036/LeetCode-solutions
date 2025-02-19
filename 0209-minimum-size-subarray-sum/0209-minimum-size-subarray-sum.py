@@ -7,8 +7,8 @@ class Solution:
         for r in range(len(nums)):
             curSum += nums[r]
             while curSum >= target:
+                curSum -= nums[l]
                 length = (r - l) + 1
                 minLength = min(minLength,length)
-                curSum -= nums[l]
                 l += 1
         return minLength if minLength < float("inf") else 0
