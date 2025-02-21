@@ -76,6 +76,7 @@ leetcode problems solved
 | [1927-maximum-ascending-subarray-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
@@ -297,4 +298,5 @@ leetcode problems solved
 | [0724-find-pivot-index](https://github.com/Abdi036/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
