@@ -64,6 +64,7 @@ leetcode problems solved
 | [0283-move-zeroes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Abdi036/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
@@ -293,6 +294,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Abdi036/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
