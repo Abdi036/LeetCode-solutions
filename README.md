@@ -276,6 +276,7 @@ leetcode problems solved
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abdi036/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -316,4 +317,8 @@ leetcode problems solved
 | [3311-ant-on-the-boundary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/3731-sum-of-variable-length-subarrays) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abdi036/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
