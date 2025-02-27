@@ -279,6 +279,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abdi036/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -325,4 +326,5 @@ leetcode problems solved
 | [0021-merge-two-sorted-lists](https://github.com/Abdi036/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Abdi036/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
