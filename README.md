@@ -230,6 +230,7 @@ leetcode problems solved
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -285,6 +286,7 @@ leetcode problems solved
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abdi036/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
@@ -332,6 +334,7 @@ leetcode problems solved
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abdi036/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Abdi036/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
