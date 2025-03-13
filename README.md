@@ -367,4 +367,8 @@ leetcode problems solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abdi036/LeetCode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
