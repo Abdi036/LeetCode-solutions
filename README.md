@@ -101,6 +101,7 @@ leetcode problems solved
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3311-ant-on-the-boundary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abdi036/LeetCode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3429-special-array-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -303,6 +304,7 @@ leetcode problems solved
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abdi036/LeetCode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [3311-ant-on-the-boundary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3311-ant-on-the-boundary) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
 | ------- |
