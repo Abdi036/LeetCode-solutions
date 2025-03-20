@@ -101,6 +101,7 @@ leetcode problems solved
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3311-ant-on-the-boundary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3311-ant-on-the-boundary) |
+| [3324-split-the-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
@@ -135,6 +136,7 @@ leetcode problems solved
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Abdi036/LeetCode-solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3324-split-the-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -297,6 +299,7 @@ leetcode problems solved
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abdi036/LeetCode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3324-split-the-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
 |  |
