@@ -78,6 +78,7 @@ leetcode problems solved
 | [1603-running-sum-of-1d-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1833-find-the-highest-altitude](https://github.com/Abdi036/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abdi036/LeetCode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -127,6 +128,7 @@ leetcode problems solved
 | [0782-jewels-and-stones](https://github.com/Abdi036/LeetCode-solutions/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abdi036/LeetCode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
@@ -296,6 +298,7 @@ leetcode problems solved
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abdi036/LeetCode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
