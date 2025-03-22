@@ -94,6 +94,7 @@ leetcode problems solved
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abdi036/LeetCode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -136,6 +137,7 @@ leetcode problems solved
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Abdi036/LeetCode-solutions/tree/master/3034-points-that-intersect-with-cars) |
@@ -166,6 +168,7 @@ leetcode problems solved
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abdi036/LeetCode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
@@ -222,6 +225,7 @@ leetcode problems solved
 | [2308-divide-array-into-equal-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abdi036/LeetCode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/Abdi036/LeetCode-solutions/tree/master/2478-longest-nice-subarray) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -308,6 +312,7 @@ leetcode problems solved
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abdi036/LeetCode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abdi036/LeetCode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
