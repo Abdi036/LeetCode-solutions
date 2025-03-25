@@ -102,6 +102,7 @@ leetcode problems solved
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Abdi036/LeetCode-solutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Abdi036/LeetCode-solutions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -147,6 +148,7 @@ leetcode problems solved
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Abdi036/LeetCode-solutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Abdi036/LeetCode-solutions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -218,6 +220,7 @@ leetcode problems solved
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Abdi036/LeetCode-solutions/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Matrix
 |  |
 | ------- |
@@ -266,6 +269,7 @@ leetcode problems solved
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abdi036/LeetCode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Abdi036/LeetCode-solutions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Math
 |  |
@@ -326,6 +330,7 @@ leetcode problems solved
 | [2427-first-letter-to-appear-twice](https://github.com/Abdi036/LeetCode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Abdi036/LeetCode-solutions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3324-split-the-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -370,6 +375,7 @@ leetcode problems solved
 | [0680-valid-palindrome-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Abdi036/LeetCode-solutions/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sliding Window
 |  |
 | ------- |
