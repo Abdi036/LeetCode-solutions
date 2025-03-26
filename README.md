@@ -77,6 +77,7 @@ leetcode problems solved
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/Abdi036/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abdi036/LeetCode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -133,6 +134,7 @@ leetcode problems solved
 | [0782-jewels-and-stones](https://github.com/Abdi036/LeetCode-solutions/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abdi036/LeetCode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abdi036/LeetCode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -169,6 +171,7 @@ leetcode problems solved
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abdi036/LeetCode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abdi036/LeetCode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -234,6 +237,7 @@ leetcode problems solved
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Abdi036/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abdi036/LeetCode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/Abdi036/LeetCode-solutions/tree/master/2478-longest-nice-subarray) |
@@ -320,6 +324,7 @@ leetcode problems solved
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abdi036/LeetCode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abdi036/LeetCode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
