@@ -283,6 +283,7 @@ leetcode problems solved
 | [0231-power-of-two](https://github.com/Abdi036/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Abdi036/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -361,6 +362,7 @@ leetcode problems solved
 | [0206-reverse-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abdi036/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Abdi036/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
