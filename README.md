@@ -116,6 +116,7 @@ leetcode problems solved
 | [3429-special-array-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3429-special-array-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3778-transform-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ leetcode problems solved
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3778-transform-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -342,6 +344,7 @@ leetcode problems solved
 | [3220-count-tested-devices-after-test-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3324-split-the-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3778-transform-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
