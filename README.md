@@ -123,6 +123,7 @@ leetcode problems solved
 | ------- |
 | [0001-two-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdi036/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Abdi036/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
@@ -161,6 +162,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdi036/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0344-reverse-string) |
@@ -286,6 +288,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abdi036/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0258-add-digits) |
