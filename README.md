@@ -192,6 +192,7 @@ leetcode problems solved
 | [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -369,6 +370,7 @@ leetcode problems solved
 | [3311-ant-on-the-boundary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
