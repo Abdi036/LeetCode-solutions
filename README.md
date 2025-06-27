@@ -192,6 +192,7 @@ leetcode problems solved
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3567-convert-date-to-binary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abdi036/LeetCode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -308,6 +309,7 @@ leetcode problems solved
 | [2571-find-the-pivot-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Abdi036/LeetCode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3567-convert-date-to-binary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Interactive
 |  |
