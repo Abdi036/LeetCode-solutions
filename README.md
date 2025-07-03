@@ -42,6 +42,7 @@ leetcode problems solved
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
@@ -178,6 +179,7 @@ leetcode problems solved
 | [0696-count-binary-substrings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Abdi036/LeetCode-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Abdi036/LeetCode-solutions/tree/master/0782-jewels-and-stones) |
+| [1078-remove-outermost-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
