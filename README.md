@@ -189,6 +189,7 @@ leetcode problems solved
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abdi036/LeetCode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abdi036/LeetCode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1970-sorting-the-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abdi036/LeetCode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -219,6 +220,7 @@ leetcode problems solved
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1970-sorting-the-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
