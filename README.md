@@ -198,6 +198,7 @@ leetcode problems solved
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abdi036/LeetCode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2401-count-asterisks](https://github.com/Abdi036/LeetCode-solutions/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Abdi036/LeetCode-solutions/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abdi036/LeetCode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
