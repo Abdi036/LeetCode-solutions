@@ -2,7 +2,7 @@
  * @param {Function[]} functions
  * @return {Function}
  */
- function compose(functions) {
+function compose(functions) {
 	return function(x) {
         let res = x;
         for(let i = functions.length - 1; i >= 0 ; i--){
