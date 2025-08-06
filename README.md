@@ -190,6 +190,7 @@ leetcode problems solved
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/Abdi036/LeetCode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abdi036/LeetCode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abdi036/LeetCode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1954-replace-all-digits-with-characters](https://github.com/Abdi036/LeetCode-solutions/tree/master/1954-replace-all-digits-with-characters) |
@@ -298,6 +299,7 @@ leetcode problems solved
 | [1168-duplicate-zeros](https://github.com/Abdi036/LeetCode-solutions/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/Abdi036/LeetCode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abdi036/LeetCode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2551-apply-operations-to-an-array) |
