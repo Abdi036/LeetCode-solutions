@@ -87,6 +87,7 @@ leetcode problems solved
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abdi036/LeetCode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abdi036/LeetCode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1944-truncate-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -193,6 +194,7 @@ leetcode problems solved
 | [1894-merge-strings-alternately](https://github.com/Abdi036/LeetCode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abdi036/LeetCode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abdi036/LeetCode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1944-truncate-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Abdi036/LeetCode-solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abdi036/LeetCode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
