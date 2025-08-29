@@ -317,6 +317,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abdi036/LeetCode-solutions/tree/master/0231-power-of-two) |
