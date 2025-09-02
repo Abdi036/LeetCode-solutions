@@ -38,6 +38,7 @@ leetcode problems solved
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -177,6 +178,7 @@ leetcode problems solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdi036/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abdi036/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0344-reverse-string) |
