@@ -341,6 +341,7 @@ leetcode problems solved
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-convert-date-to-binary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3830-find-closest-person](https://github.com/Abdi036/LeetCode-solutions/tree/master/3830-find-closest-person) |
 ## Interactive
 |  |
 | ------- |
