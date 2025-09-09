@@ -46,6 +46,7 @@ leetcode problems solved
 | [1078-remove-outermost-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3447-clear-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -215,6 +216,7 @@ leetcode problems solved
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -409,6 +411,7 @@ leetcode problems solved
 | [3311-ant-on-the-boundary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3447-clear-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/3447-clear-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Recursion
 |  |
