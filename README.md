@@ -216,6 +216,7 @@ leetcode problems solved
 | [2427-first-letter-to-appear-twice](https://github.com/Abdi036/LeetCode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/2594-count-pairs-of-similar-strings) |
+| [2887-sort-vowels-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -243,6 +244,7 @@ leetcode problems solved
 | [2561-number-of-distinct-averages](https://github.com/Abdi036/LeetCode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abdi036/LeetCode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2887-sort-vowels-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3778-transform-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
