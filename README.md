@@ -78,6 +78,7 @@ leetcode problems solved
 | [0792-binary-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
+| [1006-vowel-spellchecker](https://github.com/Abdi036/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
 | [1168-duplicate-zeros](https://github.com/Abdi036/LeetCode-solutions/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -146,6 +147,7 @@ leetcode problems solved
 | [0500-keyboard-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Abdi036/LeetCode-solutions/tree/master/0782-jewels-and-stones) |
+| [1006-vowel-spellchecker](https://github.com/Abdi036/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -192,6 +194,7 @@ leetcode problems solved
 | [0696-count-binary-substrings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Abdi036/LeetCode-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Abdi036/LeetCode-solutions/tree/master/0782-jewels-and-stones) |
+| [1006-vowel-spellchecker](https://github.com/Abdi036/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
