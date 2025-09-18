@@ -3,7 +3,6 @@
  * @param {string} num2
  * @return {string}
  */
-function multiply(num1, num2) {
+ function multiply(num1, num2) {
      return (BigInt(num1) * BigInt(num2)) + "";
 };
-     
