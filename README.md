@@ -184,6 +184,7 @@ leetcode problems solved
 | [0012-integer-to-roman](https://github.com/Abdi036/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
@@ -339,6 +340,7 @@ leetcode problems solved
 | [0009-palindrome-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Abdi036/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abdi036/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0258-add-digits) |
@@ -413,6 +415,7 @@ leetcode problems solved
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abdi036/LeetCode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
