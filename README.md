@@ -59,6 +59,7 @@ leetcode problems solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abdi036/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abdi036/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
@@ -459,6 +460,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -509,6 +511,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
