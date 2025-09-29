@@ -65,6 +65,7 @@ leetcode problems solved
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Abdi036/LeetCode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdi036/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0189-rotate-array) |
@@ -243,6 +244,7 @@ leetcode problems solved
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Abdi036/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Abdi036/LeetCode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdi036/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
@@ -386,10 +388,12 @@ leetcode problems solved
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Abdi036/LeetCode-solutions/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Abdi036/LeetCode-solutions/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
