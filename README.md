@@ -105,6 +105,7 @@ leetcode problems solved
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abdi036/LeetCode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2478-longest-nice-subarray](https://github.com/Abdi036/LeetCode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/2502-sort-the-people) |
@@ -359,6 +360,7 @@ leetcode problems solved
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Abdi036/LeetCode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -428,6 +430,7 @@ leetcode problems solved
 | [0258-add-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abdi036/LeetCode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abdi036/LeetCode-solutions/tree/master/2698-find-the-array-concatenation-value) |
@@ -545,6 +548,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
