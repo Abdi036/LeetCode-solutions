@@ -12,5 +12,3 @@ function findTheDifference(s, t) {
         else if(sorted2[i] !== sorted1[i]) return sorted2[i];
      }
 };
-
- 
