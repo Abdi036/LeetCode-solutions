@@ -22,3 +22,4 @@ var inorderTraversal = function(root) {
     traverse(root)
     return res
 };
+ 
