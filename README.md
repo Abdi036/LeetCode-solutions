@@ -306,6 +306,7 @@ leetcode problems solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0029-divide-two-integers) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Abdi036/LeetCode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Abdi036/LeetCode-solutions/tree/master/0231-power-of-two) |
@@ -362,6 +363,7 @@ leetcode problems solved
 | [0009-palindrome-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Abdi036/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abdi036/LeetCode-solutions/tree/master/0231-power-of-two) |
