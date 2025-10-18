@@ -84,6 +84,7 @@ leetcode problems solved
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abdi036/LeetCode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/Abdi036/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
 | [1168-duplicate-zeros](https://github.com/Abdi036/LeetCode-solutions/tree/master/1168-duplicate-zeros) |
@@ -265,6 +266,7 @@ leetcode problems solved
 | [0389-find-the-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0807-custom-sort-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1970-sorting-the-sentence) |
@@ -342,6 +344,7 @@ leetcode problems solved
 | [0696-count-binary-substrings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/Abdi036/LeetCode-solutions/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
