@@ -10,6 +10,7 @@ leetcode problems solved
 | [0100-same-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -20,6 +21,7 @@ leetcode problems solved
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -35,6 +37,7 @@ leetcode problems solved
 | [0100-same-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
@@ -43,6 +46,7 @@ leetcode problems solved
 | [0020-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
