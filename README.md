@@ -45,6 +45,7 @@ leetcode problems solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Abdi036/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -209,6 +210,7 @@ leetcode problems solved
 | [0032-longest-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Abdi036/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
