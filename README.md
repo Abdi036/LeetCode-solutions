@@ -51,6 +51,7 @@ leetcode problems solved
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abdi036/LeetCode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
@@ -229,6 +230,7 @@ leetcode problems solved
 | [0742-to-lower-case](https://github.com/Abdi036/LeetCode-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Abdi036/LeetCode-solutions/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0807-custom-sort-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abdi036/LeetCode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/Abdi036/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Abdi036/LeetCode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -522,6 +524,7 @@ leetcode problems solved
 | [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abdi036/LeetCode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Abdi036/LeetCode-solutions/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sliding Window
