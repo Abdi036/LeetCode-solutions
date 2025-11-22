@@ -95,6 +95,7 @@ leetcode problems solved
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Abdi036/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1168-duplicate-zeros](https://github.com/Abdi036/LeetCode-solutions/tree/master/1168-duplicate-zeros) |
 | [1222-remove-covered-intervals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -175,6 +176,7 @@ leetcode problems solved
 | [0807-custom-sort-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0807-custom-sort-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Abdi036/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Abdi036/LeetCode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -453,6 +455,7 @@ leetcode problems solved
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
