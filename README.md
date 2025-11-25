@@ -119,6 +119,7 @@ leetcode problems solved
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abdi036/LeetCode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abdi036/LeetCode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -256,6 +257,7 @@ leetcode problems solved
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Abdi036/LeetCode-solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abdi036/LeetCode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -525,6 +527,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abdi036/LeetCode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
