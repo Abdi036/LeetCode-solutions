@@ -3,13 +3,13 @@
  * @return {number[][]}
  */
 function transpose(matrix) {
-    const transp = [];
-    for(let i = 0; i < matrix[0].length; i++){
-        const temp = [];
-         for(let j = 0; j < matrix.length; j++){
-             temp.push(matrix[j][i])
-        }
-        transp.push(temp)
+    const row = matrix.length;
+    const col = matrix[0].length
+    const res = Array.from({length:col}, () => new Array(row))
+    for(let i = 0; i < row; i++){
+        for(let j = 0; j < col; j++){
+           res[j][i] = matrix[i][j]
+       }
     }
-    return transp;
+return res
 };
