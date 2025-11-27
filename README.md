@@ -92,6 +92,7 @@ leetcode problems solved
 | [0724-find-pivot-index](https://github.com/Abdi036/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abdi036/LeetCode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0792-binary-search) |
+| [0867-transpose-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0867-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
@@ -332,6 +333,7 @@ leetcode problems solved
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0867-transpose-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -492,6 +494,7 @@ leetcode problems solved
 | ------- |
 | [0043-multiply-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Abdi036/LeetCode-solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abdi036/LeetCode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
