@@ -45,6 +45,7 @@ leetcode problems solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Abdi036/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -67,6 +68,7 @@ leetcode problems solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abdi036/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Abdi036/LeetCode-solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abdi036/LeetCode-solutions/tree/master/0056-merge-intervals) |
@@ -360,6 +362,7 @@ leetcode problems solved
 | [0011-container-with-most-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Abdi036/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
@@ -589,11 +592,13 @@ leetcode problems solved
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abdi036/LeetCode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
