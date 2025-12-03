@@ -66,6 +66,7 @@ leetcode problems solved
 | [0004-median-of-two-sorted-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Abdi036/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abdi036/LeetCode-solutions/tree/master/0035-search-insert-position) |
@@ -285,6 +286,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Abdi036/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Abdi036/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
@@ -367,6 +369,7 @@ leetcode problems solved
 | [0005-longest-palindromic-substring](https://github.com/Abdi036/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Abdi036/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
