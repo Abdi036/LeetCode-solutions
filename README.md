@@ -85,6 +85,7 @@ leetcode problems solved
 | [0189-rotate-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abdi036/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
@@ -293,6 +294,7 @@ leetcode problems solved
 | [0164-maximum-gap](https://github.com/Abdi036/LeetCode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdi036/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -446,12 +448,14 @@ leetcode problems solved
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0190-reverse-bits) |
+| [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -626,10 +630,12 @@ leetcode problems solved
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 ## Backtracking
 |  |
@@ -652,4 +658,12 @@ leetcode problems solved
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
