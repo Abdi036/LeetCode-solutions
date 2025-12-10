@@ -159,6 +159,7 @@ leetcode problems solved
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abdi036/LeetCode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3429-special-array-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
@@ -445,6 +446,7 @@ leetcode problems solved
 | [2649-count-total-number-of-colored-cells](https://github.com/Abdi036/LeetCode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-convert-date-to-binary](https://github.com/Abdi036/LeetCode-solutions/tree/master/3567-convert-date-to-binary) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/Abdi036/LeetCode-solutions/tree/master/3830-find-closest-person) |
 ## Interactive
@@ -658,6 +660,7 @@ leetcode problems solved
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -679,4 +682,8 @@ leetcode problems solved
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
