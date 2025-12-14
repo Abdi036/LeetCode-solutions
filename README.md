@@ -660,6 +660,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/Abdi036/LeetCode-solutions/tree/master/0077-combinations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
