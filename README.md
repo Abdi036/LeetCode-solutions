@@ -128,6 +128,7 @@ leetcode problems solved
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Abdi036/LeetCode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abdi036/LeetCode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abdi036/LeetCode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -445,6 +446,7 @@ leetcode problems solved
 | [1925-count-square-sum-triples](https://github.com/Abdi036/LeetCode-solutions/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Abdi036/LeetCode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Abdi036/LeetCode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -634,6 +636,7 @@ leetcode problems solved
 | [0042-trapping-rain-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Abdi036/LeetCode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Memoization
 |  |
 | ------- |
