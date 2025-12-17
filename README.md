@@ -9,6 +9,7 @@ leetcode problems solved
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -38,6 +39,7 @@ leetcode problems solved
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -79,6 +81,7 @@ leetcode problems solved
 | [0073-set-matrix-zeroes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Abdi036/LeetCode-solutions/tree/master/0164-maximum-gap) |
@@ -176,6 +179,7 @@ leetcode problems solved
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Abdi036/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Abdi036/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0202-happy-number) |
@@ -466,6 +470,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0190-reverse-bits) |
