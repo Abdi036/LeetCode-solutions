@@ -84,6 +84,7 @@ leetcode problems solved
 | [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Abdi036/LeetCode-solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Abdi036/LeetCode-solutions/tree/master/0164-maximum-gap) |
@@ -182,6 +183,7 @@ leetcode problems solved
 | [0073-set-matrix-zeroes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Abdi036/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Abdi036/LeetCode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Abdi036/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0202-happy-number) |
@@ -249,6 +251,7 @@ leetcode problems solved
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Abdi036/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Abdi036/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Abdi036/LeetCode-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Abdi036/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
@@ -648,11 +651,13 @@ leetcode problems solved
 | [0032-longest-valid-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0139-word-break](https://github.com/Abdi036/LeetCode-solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Abdi036/LeetCode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Abdi036/LeetCode-solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
@@ -711,4 +716,8 @@ leetcode problems solved
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Abdi036/LeetCode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
