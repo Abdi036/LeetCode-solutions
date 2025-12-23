@@ -19,6 +19,7 @@ leetcode problems solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -82,6 +83,7 @@ leetcode problems solved
 | [0056-merge-intervals](https://github.com/Abdi036/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Abdi036/LeetCode-solutions/tree/master/0139-word-break) |
@@ -251,6 +253,7 @@ leetcode problems solved
 | [0049-group-anagrams](https://github.com/Abdi036/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Abdi036/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Abdi036/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Abdi036/LeetCode-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Abdi036/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -367,6 +370,7 @@ leetcode problems solved
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Abdi036/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0867-transpose-matrix) |
@@ -683,6 +687,7 @@ leetcode problems solved
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abdi036/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Abdi036/LeetCode-solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Abdi036/LeetCode-solutions/tree/master/0089-gray-code) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
