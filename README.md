@@ -104,6 +104,7 @@ leetcode problems solved
 | [0349-intersection-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Abdi036/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/Abdi036/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Abdi036/LeetCode-solutions/tree/master/0724-find-pivot-index) |
@@ -327,6 +328,7 @@ leetcode problems solved
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/Abdi036/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
@@ -518,6 +520,7 @@ leetcode problems solved
 | ------- |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Abdi036/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -592,6 +595,7 @@ leetcode problems solved
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/Abdi036/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abdi036/LeetCode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
