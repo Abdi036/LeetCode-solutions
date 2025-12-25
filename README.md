@@ -97,6 +97,7 @@ leetcode problems solved
 | [0217-contains-duplicate](https://github.com/Abdi036/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0283-move-zeroes) |
@@ -193,6 +194,7 @@ leetcode problems solved
 | [0205-isomorphic-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Abdi036/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abdi036/LeetCode-solutions/tree/master/0290-word-pattern) |
@@ -323,6 +325,7 @@ leetcode problems solved
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdi036/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Abdi036/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
+| [0229-majority-element-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -519,6 +522,7 @@ leetcode problems solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Abdi036/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
