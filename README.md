@@ -122,6 +122,7 @@ leetcode problems solved
 | [1168-duplicate-zeros](https://github.com/Abdi036/LeetCode-solutions/tree/master/1168-duplicate-zeros) |
 | [1222-remove-covered-intervals](https://github.com/Abdi036/LeetCode-solutions/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abdi036/LeetCode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -369,6 +370,7 @@ leetcode problems solved
 | [0633-sum-of-square-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abdi036/LeetCode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Abdi036/LeetCode-solutions/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abdi036/LeetCode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -382,6 +384,7 @@ leetcode problems solved
 | [0240-search-a-2d-matrix-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Abdi036/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abdi036/LeetCode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abdi036/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
