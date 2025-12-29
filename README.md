@@ -108,6 +108,7 @@ leetcode problems solved
 | [0500-keyboard-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Abdi036/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Abdi036/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abdi036/LeetCode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -337,6 +338,7 @@ leetcode problems solved
 | [0389-find-the-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Abdi036/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0807-custom-sort-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/Abdi036/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/0941-sort-array-by-parity) |
@@ -468,6 +470,7 @@ leetcode problems solved
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abdi036/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abdi036/LeetCode-solutions/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Abdi036/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdi036/LeetCode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
