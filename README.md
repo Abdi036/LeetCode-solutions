@@ -203,6 +203,7 @@ leetcode problems solved
 | [0290-word-pattern](https://github.com/Abdi036/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Abdi036/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/0500-keyboard-row) |
@@ -267,6 +268,7 @@ leetcode problems solved
 | [0242-valid-anagram](https://github.com/Abdi036/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abdi036/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Abdi036/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/0500-keyboard-row) |
@@ -533,6 +535,7 @@ leetcode problems solved
 | [0169-majority-element](https://github.com/Abdi036/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Abdi036/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Abdi036/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
