@@ -176,6 +176,7 @@ leetcode problems solved
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abdi036/LeetCode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3429-special-array-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3668-restore-finishing-order](https://github.com/Abdi036/LeetCode-solutions/tree/master/3668-restore-finishing-order) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/Abdi036/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
@@ -245,6 +246,7 @@ leetcode problems solved
 | [3324-split-the-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/3324-split-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abdi036/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3668-restore-finishing-order](https://github.com/Abdi036/LeetCode-solutions/tree/master/3668-restore-finishing-order) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abdi036/LeetCode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abdi036/LeetCode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
