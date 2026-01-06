@@ -16,6 +16,7 @@ leetcode problems solved
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ leetcode problems solved
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/Abdi036/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +36,7 @@ leetcode problems solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/Abdi036/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -45,6 +48,7 @@ leetcode problems solved
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
