@@ -1,15 +1,12 @@
-class Solution:
-    def islandPerimeter(self, grid: List[List[int]]) -> int:
-        perimeter = 0
-        rows, cols = len(grid), len(grid[0])
-        
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == 1:
-                    perimeter += 4
-                    if r > 0 and grid[r-1][c] == 1:
-                        perimeter -= 2
-                    if c > 0 and grid[r][c-1] == 1:
-                        perimeter -= 2
-                        
-        return perimeter
+class Solution(object):
+    def islandPerimeter(self, grid):
+        r, c, s = len(grid), len(grid[0]), 0
+        for i in range(r):
+            for j in range(c):
+                if grid[i][j]:
+                    s += 4
+                    if i and grid[i-1][j]:
+                        s -= 2
+                    if j and grid[i][j-1]:
+                        s -= 2
+        return s
