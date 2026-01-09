@@ -16,6 +16,7 @@ leetcode problems solved
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -28,6 +29,7 @@ leetcode problems solved
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/Abdi036/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -36,6 +38,7 @@ leetcode problems solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/Abdi036/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -48,6 +51,7 @@ leetcode problems solved
 | [0144-binary-tree-preorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abdi036/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdi036/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
 |  |
@@ -220,6 +224,7 @@ leetcode problems solved
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Abdi036/LeetCode-solutions/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0807-custom-sort-string) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abdi036/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Abdi036/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
