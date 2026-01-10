@@ -217,6 +217,7 @@ leetcode problems solved
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdi036/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Abdi036/LeetCode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/0500-keyboard-row) |
@@ -285,6 +286,7 @@ leetcode problems solved
 | [0290-word-pattern](https://github.com/Abdi036/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Abdi036/LeetCode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Abdi036/LeetCode-solutions/tree/master/0500-keyboard-row) |
@@ -554,6 +556,7 @@ leetcode problems solved
 | [0229-majority-element-ii](https://github.com/Abdi036/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abdi036/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Abdi036/LeetCode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Abdi036/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abdi036/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Abdi036/LeetCode-solutions/tree/master/0948-sort-an-array) |
@@ -617,6 +620,7 @@ leetcode problems solved
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abdi036/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
