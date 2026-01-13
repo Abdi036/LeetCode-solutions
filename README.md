@@ -423,6 +423,7 @@ leetcode problems solved
 | [0222-count-complete-tree-nodes](https://github.com/Abdi036/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Abdi036/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abdi036/LeetCode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Abdi036/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abdi036/LeetCode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -702,6 +703,7 @@ leetcode problems solved
 | [0042-trapping-rain-water](https://github.com/Abdi036/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Abdi036/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/Abdi036/LeetCode-solutions/tree/master/0139-word-break) |
+| [0338-counting-bits](https://github.com/Abdi036/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Abdi036/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Abdi036/LeetCode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Memoization
